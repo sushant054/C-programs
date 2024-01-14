@@ -2,7 +2,7 @@
 int factorial(int n)
 {
     int fact=1;
-    //if any one of them is true....
+    //if any one of them is true...
     if(n==1 || n==0)
         //fact of 1 and 0 is 1
         return fact;
