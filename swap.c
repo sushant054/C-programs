@@ -1,6 +1,7 @@
 #include<stdio.h>
-int main(){
-    int a,b,c;
+int main()
+{
+    int a,b;
     printf("Enter first no:");
     scanf("%d",&a);
     printf("Enter Second no:");
