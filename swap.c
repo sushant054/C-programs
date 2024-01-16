@@ -6,7 +6,7 @@ int main()
     scanf("%d",&a);
     printf("Enter Second no:");
     scanf("%d",&b);
-    //swap two numbers without using 3rd variable..... 
+    //swap two numbers without using 3rd variable...
     a=a+b;
     b=a-b;
     a=a-b;
