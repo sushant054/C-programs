@@ -7,10 +7,9 @@ int main()
   scanf("%d", &n);
 
   printf("Enter %d integer(s)\n", n);
-
   for (c = 0; c < n; c++)
     scanf("%d", &array[c]);
-//here accepting value from users
+//here accepting value from users..
   printf("Enter a number to search\n");
   scanf("%d", &search);
 
