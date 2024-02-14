@@ -8,6 +8,7 @@ int main(){
     c=a;
     a=b;
     b=c;
+    //swapping...
     printf("After swaping:");
     printf("First no:%d",a);
     printf("Second no:%d",b);
