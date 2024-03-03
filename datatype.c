@@ -22,4 +22,4 @@ int main() {
     printf( "\n%s%s",s,s1);
     // The 's' variable above should be printed first.
     return 0;
-}
+} 
