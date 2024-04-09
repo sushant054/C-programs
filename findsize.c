@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main() {
+int main() 
+{
     int intType;
     float floatType;
     double doubleType;
@@ -13,3 +14,7 @@ int main() {
     
     return 0;
 }
+
+
+
+
