@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main() 
 {
-    //accept marks of students and print using array
+    //accept marks of students from user and print using array
+
     int arr[5],i;
     printf("Enter the marks of the student:");
     for(i=0;i<5;i++)
