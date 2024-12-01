@@ -15,6 +15,7 @@ int factorial(int n)
     }
     return fact;
 }
+//main function...
 int main()
 {
     int n,ans ;
